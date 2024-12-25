@@ -1,4 +1,4 @@
-from animals.animals import Animal
+from animals.animals import Bird, BabyAnimal, Cow, Sheep, Goat
 
 class Building:
     def __init__(self, name, efficiency_bonus=0, upgrade_cost=0, capacity=0):
