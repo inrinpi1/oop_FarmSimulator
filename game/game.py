@@ -3,7 +3,7 @@ import pickle
 
 from game.farm import Farm
 from environment.weather import Weather
-from environment.plants import Plant
+from environment.plant import Plant
 from market.market import Market
 from inventory.inventory import Inventory
 from animals.animals import Animal, Cow, Sheep, Goat, Chicken, Duck, Goose, BabyAnimal, Mammal, Bird 
