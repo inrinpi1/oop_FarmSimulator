@@ -1,6 +1,4 @@
 import random
-from inventory.inventory import Inventory
-from buildings.buildings import Building
 
 class Animal:
     def __init__(self, name, age, offspring_range, product_type=None, reproduction_prob=0):
