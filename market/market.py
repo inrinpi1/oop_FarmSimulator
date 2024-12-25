@@ -1,4 +1,4 @@
-from inventory.inventory import Inventory
+import random
 from environment.plant import Plant
 
 class Market:

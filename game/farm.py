@@ -1,7 +1,3 @@
-from buildings.buildings import ChickenCoop, CowShed, Sheepfold, GoatHouse
-from animals.animals import Cow, Sheep, Goat, Chicken, Duck, Goose, BabyAnimal
-
-
 class Farm:
     def __init__(self):
         self.plants = []
